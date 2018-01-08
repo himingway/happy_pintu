@@ -15,8 +15,7 @@
 ### 例子说明
 
 1. git clone git@github.com:himingway/happy_pintu.git 
-2. python happy_pintu.py ./test_case/origin.png ./test_case/disorded.png 5 
-(windows用户输入：python happy_pintu.py .\test_case\origin.png .\test_case\disorded.png 5)
+2. python happy_pintu.py ./test_case/origin.png ./test_case/disorded.png 5 (windows用户输入：python happy_pintu.py .\test_case\origin.png .\test_case\disorded.png 5)
 3. ![](./pic/1.png)
 4. ![](./pic/2.png)
 
